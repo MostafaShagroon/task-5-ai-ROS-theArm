@@ -1,4 +1,4 @@
-# task-5-ai-ROS-theArm!
+# task-5-ai-Robot-Arm-PKG-Rviz
 Welcome to the task-5-ai-ROS-theArm wiki!
 
 for this task it will be contains more than steps starting with downloading robot PKG then installing Rviz then open the PKG on Rviz lastly installing blender to manipulate the robot arm using Blender and the files 
